@@ -1,0 +1,2 @@
+# Disable Jekyll so GitHub Pages serves HTML directly
+markdown: false
